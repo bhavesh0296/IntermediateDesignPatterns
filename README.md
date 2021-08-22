@@ -1,0 +1,2 @@
+# IntermediateDesignPatterns
+Intermediate Design Patterns
